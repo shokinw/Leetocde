@@ -10,6 +10,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shokinw/Leetocde/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shokinw/Leetocde/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
@@ -36,4 +37,12 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/shokinw/Leetocde/tree/master/0973-k-closest-points-to-origin) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shokinw/Leetocde/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shokinw/Leetocde/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
