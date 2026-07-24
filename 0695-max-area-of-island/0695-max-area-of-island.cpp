@@ -3,15 +3,10 @@ public:
     int dfs(vector<vector<int>>& grid, int i, int j) {
         int m = grid.size();
         int n = grid[0].size();
-
-        // Base Case
         if (i < 0 || j < 0 || i >= m || j >= n || grid[i][j] == 0)
             return 0;
 
-        // Mark as visited
         grid[i][j] = 0;
-
-        // Current cell + 4 directions
         return 1 +
                dfs(grid, i + 1, j) +
                dfs(grid, i - 1, j) +
