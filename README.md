@@ -22,6 +22,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/shokinw/Leetocde/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/shokinw/Leetocde/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -67,4 +68,16 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 | ------- |
 | [0200-number-of-islands](https://github.com/shokinw/Leetocde/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shokinw/Leetocde/tree/master/0695-max-area-of-island) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shokinw/Leetocde/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shokinw/Leetocde/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shokinw/Leetocde/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
