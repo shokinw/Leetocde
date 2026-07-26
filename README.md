@@ -45,6 +45,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shokinw/Leetocde/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0344-reverse-string](https://github.com/shokinw/Leetocde/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -81,4 +82,8 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shokinw/Leetocde/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shokinw/Leetocde/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
