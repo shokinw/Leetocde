@@ -22,6 +22,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/shokinw/Leetocde/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/shokinw/Leetocde/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/shokinw/Leetocde/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
