@@ -1,8 +1,8 @@
 class Solution {
 public:
     void reverseString(vector<char>& s) {
+        stack<int> st;
 
-        stack<char>st;
 
         for(auto ch:s){
             st.push(ch);
@@ -12,7 +12,6 @@ public:
             s[i]=st.top();
             st.pop();
         }
-        
         
     }
 };
