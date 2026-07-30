@@ -13,10 +13,12 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shokinw/Leetocde/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/shokinw/Leetocde/tree/master/0242-valid-anagram) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shokinw/Leetocde/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shokinw/Leetocde/tree/master/0242-valid-anagram) |
 | [0973-k-closest-points-to-origin](https://github.com/shokinw/Leetocde/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shokinw/Leetocde/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Math
@@ -46,6 +48,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shokinw/Leetocde/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/shokinw/Leetocde/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shokinw/Leetocde/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
