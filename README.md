@@ -9,6 +9,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 | [0695-max-area-of-island](https://github.com/shokinw/Leetocde/tree/master/0695-max-area-of-island) |
 | [0973-k-closest-points-to-origin](https://github.com/shokinw/Leetocde/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shokinw/Leetocde/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shokinw/Leetocde/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 | [0172-factorial-trailing-zeroes](https://github.com/shokinw/Leetocde/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/shokinw/Leetocde/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/shokinw/Leetocde/tree/master/0973-k-closest-points-to-origin) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shokinw/Leetocde/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,4 +92,8 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/shokinw/Leetocde/tree/master/0344-reverse-string) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shokinw/Leetocde/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
