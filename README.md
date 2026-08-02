@@ -29,6 +29,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 | [0172-factorial-trailing-zeroes](https://github.com/shokinw/Leetocde/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/shokinw/Leetocde/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/shokinw/Leetocde/tree/master/0973-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/shokinw/Leetocde/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shokinw/Leetocde/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
@@ -52,6 +53,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shokinw/Leetocde/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/shokinw/Leetocde/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shokinw/Leetocde/tree/master/0344-reverse-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/shokinw/Leetocde/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Backtracking
 |  |
 | ------- |
