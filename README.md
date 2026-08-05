@@ -54,6 +54,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 | [0242-valid-anagram](https://github.com/shokinw/Leetocde/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shokinw/Leetocde/tree/master/0344-reverse-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shokinw/Leetocde/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/shokinw/Leetocde/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -82,6 +83,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shokinw/Leetocde/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/shokinw/Leetocde/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -98,4 +100,8 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shokinw/Leetocde/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/shokinw/Leetocde/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
