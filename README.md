@@ -16,6 +16,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shokinw/Leetocde/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/shokinw/Leetocde/tree/master/0242-valid-anagram) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shokinw/Leetocde/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/shokinw/Leetocde/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +56,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 | [0344-reverse-string](https://github.com/shokinw/Leetocde/tree/master/0344-reverse-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shokinw/Leetocde/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/shokinw/Leetocde/tree/master/1143-longest-common-subsequence) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/shokinw/Leetocde/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Backtracking
 |  |
 | ------- |
