@@ -7,6 +7,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 | ------- |
 | [0200-number-of-islands](https://github.com/shokinw/Leetocde/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shokinw/Leetocde/tree/master/0695-max-area-of-island) |
+| [0912-sort-an-array](https://github.com/shokinw/Leetocde/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/shokinw/Leetocde/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shokinw/Leetocde/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shokinw/Leetocde/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -21,6 +22,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shokinw/Leetocde/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/shokinw/Leetocde/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/shokinw/Leetocde/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shokinw/Leetocde/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Math
@@ -35,6 +37,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/shokinw/Leetocde/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/shokinw/Leetocde/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -43,6 +46,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/shokinw/Leetocde/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/shokinw/Leetocde/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -106,4 +110,20 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/shokinw/Leetocde/tree/master/1143-longest-common-subsequence) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shokinw/Leetocde/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shokinw/Leetocde/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shokinw/Leetocde/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shokinw/Leetocde/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
