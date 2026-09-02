@@ -5,6 +5,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shokinw/Leetocde/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/shokinw/Leetocde/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shokinw/Leetocde/tree/master/0695-max-area-of-island) |
 | [0912-sort-an-array](https://github.com/shokinw/Leetocde/tree/master/0912-sort-an-array) |
@@ -21,6 +22,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shokinw/Leetocde/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/shokinw/Leetocde/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/shokinw/Leetocde/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/shokinw/Leetocde/tree/master/0973-k-closest-points-to-origin) |
@@ -101,6 +103,7 @@ HI!! ME SAMi SAmi wgatever i will solve in leetocde u will see here don't judge 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shokinw/Leetocde/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/shokinw/Leetocde/tree/master/0344-reverse-string) |
 ## Number Theory
 |  |
